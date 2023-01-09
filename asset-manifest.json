@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NavinFox/profile/static/css/main.85c302ab.css",
+    "main.js": "/NavinFox/profile/static/js/main.345289a3.js",
+    "index.html": "/NavinFox/profile/index.html",
+    "main.85c302ab.css.map": "/NavinFox/profile/static/css/main.85c302ab.css.map",
+    "main.345289a3.js.map": "/NavinFox/profile/static/js/main.345289a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85c302ab.css",
+    "static/js/main.345289a3.js"
+  ]
+}
